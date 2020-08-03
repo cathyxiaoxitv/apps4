@@ -1,2 +1,4 @@
-#app1 .output{}
-#app1 .actions{}
+#app1 button{
+    margin-top: 2vw;
+    padding: 2vw;
+}

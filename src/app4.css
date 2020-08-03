@@ -5,6 +5,8 @@
     height: 10vw;
     width: 10vw;
     border-radius: 50%;
+    position: relative;
+    padding: 3vw;
 }
 #app4 .circle.active{
     animation: change 1s infinite alternate linear;

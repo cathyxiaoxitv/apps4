@@ -5,6 +5,7 @@
     height: 10vw;
     width: 10vw;
     transition: transform 1s linear;
+    padding: 3vw;
 }
 
 #app3 .square.active{
